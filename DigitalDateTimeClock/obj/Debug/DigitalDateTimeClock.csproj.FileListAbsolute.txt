@@ -1,0 +1,10 @@
+C:\Users\Troy\Documents\Coding\C#\Udemy\DigitalDateTimeClock\bin\Debug\DigitalDateTimeClock.exe.config
+C:\Users\Troy\Documents\Coding\C#\Udemy\DigitalDateTimeClock\bin\Debug\DigitalDateTimeClock.exe
+C:\Users\Troy\Documents\Coding\C#\Udemy\DigitalDateTimeClock\bin\Debug\DigitalDateTimeClock.pdb
+C:\Users\Troy\Documents\Coding\C#\Udemy\DigitalDateTimeClock\obj\Debug\DigitalDateTimeClock.csprojAssemblyReference.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\DigitalDateTimeClock\obj\Debug\DigitalDateTimeClock.Form1.resources
+C:\Users\Troy\Documents\Coding\C#\Udemy\DigitalDateTimeClock\obj\Debug\DigitalDateTimeClock.Properties.Resources.resources
+C:\Users\Troy\Documents\Coding\C#\Udemy\DigitalDateTimeClock\obj\Debug\DigitalDateTimeClock.csproj.GenerateResource.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\DigitalDateTimeClock\obj\Debug\DigitalDateTimeClock.csproj.CoreCompileInputs.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\DigitalDateTimeClock\obj\Debug\DigitalDateTimeClock.exe
+C:\Users\Troy\Documents\Coding\C#\Udemy\DigitalDateTimeClock\obj\Debug\DigitalDateTimeClock.pdb
